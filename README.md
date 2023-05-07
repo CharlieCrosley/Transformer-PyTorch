@@ -8,7 +8,6 @@ Encoder-decoder tranformer model implemented using https://github.com/karpathy/n
 - pip install transformers
 - pip install datasets
 - pip install wandb
-- pip install tqdm 
 
 # How to run
 ### Prepare data
